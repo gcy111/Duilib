@@ -1,3 +1,4 @@
+update
 # Duilib
 UI Library,based on duilibv1.1
 based on duilibv1.1 to achieve multibyte language.the main file is DirectUITest
